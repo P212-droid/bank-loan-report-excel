@@ -66,7 +66,7 @@ Banks need a comprehensive report to:
 ---
 
 ## 📷 Dashboard Preview
-*(Insert your screenshots here)*
+
 
 ---
 
