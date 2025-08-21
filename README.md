@@ -67,7 +67,7 @@ Banks need a comprehensive report to:
 
 ## 📷 Dashboard Preview
 [DB1](dashboard1.png)
-
+[DB2](dashboard2.png)
 
 
 ---
